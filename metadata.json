@@ -1,0 +1,7 @@
+{
+  "name": "Eventra",
+  "description": "Eventra: The seamless solution for event ticket management. Book. Scan. Enjoy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
